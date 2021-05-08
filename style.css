@@ -1,0 +1,12 @@
+.body_background 
+{
+    background-image: url("avenger_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#canvas
+{
+    border-width:30px;
+    background-color: whitesmoke; 
+    border-style:ridge;
+}
